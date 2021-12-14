@@ -1,4 +1,4 @@
-<nav class="navbar fixed-top navbar-expand-lg navbar-light p-md-3" id="navbar">
+<nav class="navbar navbar-fluid fixed-top navbar-expand-lg navbar-light p-md-3" id="navbar">
   <div class="container ">
     <a class="navbar-brand" href="/">
       <img src="{{ ('img/logo.png') }}" width="50" height="50">

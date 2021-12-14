@@ -25,8 +25,6 @@
   </head>
   <body>
 
-    <div class="preloader"></div>
-
     @include('partials.navbar')
     
     <div class="container">

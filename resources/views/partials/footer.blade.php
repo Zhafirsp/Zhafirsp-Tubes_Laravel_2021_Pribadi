@@ -3,27 +3,26 @@
   <div class="container">
       <footer class="py-5">
         <div class="row">
-          <div class="col-2">
+          <div class="col-lg-2 col-sm-12">
             <h5>Shop</h5>
             <ul class="nav flex-column text-white">
-              <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-light">All product</a></li>
+              <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-light">All Movies</a></li>
               <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-light">Features</a></li>
-              <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-light">Pricing</a></li>
+              <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-light">Best Movies</a></li>
               <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-light">FAQs</a></li>
             </ul>
           </div>
     
-          <div class="col-2">
+          <div class="col-lg-2 col-sm-12">
             <h5>About Us</h5>
             <ul class="nav flex-column">
-              <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-light">Store Locator</a></li>
+              <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-light">Cinema Location</a></li>
               <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-light">Careers</a></li>
-              <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-light">Wholesale</a></li>
               <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-light">Accessibility</a></li>
             </ul>
           </div>
 
-          <div class="col-2 ">
+          <div class="col-lg-2 col-sm-12">
             <h5>Contact Us</h5>
             <ul class="nav flex-column mb-3 inline-list social-icons">
               <li class="width-30 pr-2 py-1">
@@ -44,7 +43,7 @@
             </ul>
           </div>
     
-          <div class="col-4 offset-1">
+          <div class="col-lg-4 offset-1 col-sm-12">
             <form>
               <h5>Subscribe to our newsletter</h5>
               <p>Monthly digest of whats new and exciting from us.</p>
@@ -57,7 +56,7 @@
           </div>
         </div>
     
-        <div class="d-flex justify-content-center py-4 my-4 border-top" id="copyright" style="margin-left: 45px !important;">
+        <div class="d-flex justify-content-center py-4 my-4 border-top " id="copyright" style="margin-left: 45px !important;">
           <p>&copy; 2021 さん (san) Project.</p>
           <ul class="list-unstyled d-flex">
             <li class="ms-3"><a class="link-light" href="https://www.instagram.com/zhafirsp/" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-instagram" viewBox="0 0 16 16">
