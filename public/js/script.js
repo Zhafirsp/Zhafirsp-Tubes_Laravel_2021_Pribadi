@@ -18,7 +18,7 @@ function searchMovie() {
                     $('#movie-list').append(`
                         <div class="col-md-4">
                         <div class="card mb-3">
-                            <img src="` + data.Poster + `" class="card-img-top" alt="..." style="width: 500px;">
+                            <img src="` + data.Poster + `" class="card-img-top" alt="..." style="height: 500px">
                             <div class="card-body">
                             <h5 class="card-title">` + data.Title + `</h5>
                             <h6 class="card-subtitle mb-2 text-muted">` + data.Year + `</h6>
